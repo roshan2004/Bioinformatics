@@ -1,5 +1,5 @@
 ### Counting K-mers from the sequence in fasta format  
-![image info](![image info](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/K-mer_diagram.svg/640px-K-mer_diagram.svg.png?1603804064236)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/K-mer_diagram.svg/640px-K-mer_diagram.svg.png?1603804064236" alt="alt text" width="200"/>
 Usage:  
 > *python kmers_from_file.py file.fasta*  
 
