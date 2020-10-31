@@ -4,7 +4,7 @@ from setuptools import setup
 # Create proper setup to be used by pip
 setup(name='kmers',
       version='0.0.1',
-      python_requires='>3.6.0'
+      python_requires='>3.6.0',
       description='Display and count k-mers from the fast file',
       author='Roshan Shrestha',
       packages=['kmers'],
