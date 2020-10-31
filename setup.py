@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 # Create proper setup to be used by pip
 setup(name='kmersfasta',
-      version='0.0.2',
+      version='0.0.3',
       python_requires='>3.6.0',
       long_description=long_description,
       long_description_content_type="text/markdown",

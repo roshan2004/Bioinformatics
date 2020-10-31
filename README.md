@@ -4,8 +4,8 @@
 
 Usage: 
 ```
-import kmers
-kmers.kmers_from_file('filename.fasta')
+import kmersfasta
+kmersfasta.kmers_from_file('filename.fasta')
 ```
 
 where, *filename.fasta* is the name of the file in fasta format  
@@ -14,8 +14,8 @@ where, *filename.fasta* is the name of the file in fasta format
 Usage:  
 
 ```
-import kmers
-kmers.kmers_from_ncbi('email')
+import kmersfasta
+kmersfasta.kmers_from_ncbi('email')
 ```
 
 where, *email* is your email address and you also need to provide the NCBI ACCESSION number during the prompt
