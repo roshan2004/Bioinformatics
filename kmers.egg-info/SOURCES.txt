@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+kmers/__init__.py
+kmers/utils.py
+kmers.egg-info/PKG-INFO
+kmers.egg-info/SOURCES.txt
+kmers.egg-info/dependency_links.txt
+kmers.egg-info/requires.txt
+kmers.egg-info/top_level.txt
